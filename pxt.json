@@ -1,0 +1,46 @@
+{
+    "name": "kick strength data logger",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "datalogger": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "_locales/ar/README.md",
+        "_locales/ca/README.md",
+        "_locales/cy/README.md",
+        "_locales/es-es/README.md",
+        "_locales/fr/README.md",
+        "_locales/ga-ie/README.md",
+        "_locales/hr/README.md",
+        "_locales/ja/README.md",
+        "_locales/ko/README.md",
+        "_locales/nl/README.md",
+        "_locales/pl/README.md",
+        "_locales/pt-br/README.md",
+        "_locales/pt-pt/README.md",
+        "_locales/sr/README.md",
+        "_locales/zh-cn/README.md",
+        "_locales/zh-tw/README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v5.0.6",
+        "tag": "v5.0.6",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/a7b22b445e8aebdca9d19b7fb2250d11b06e8009",
+        "target": "9.0.12",
+        "pxt": "8.0.3",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
